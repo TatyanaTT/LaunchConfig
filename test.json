@@ -1,5 +1,8 @@
- "launchConfig": {
-      "hidden_settings": [
-        "system", "network"
-      ]
+{
+  "launchConfig": {
+    "hidden_settings": [
+      "system",
+      "network"
+    ]
   }
+}
