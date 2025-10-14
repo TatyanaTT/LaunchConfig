@@ -1,5 +1,7 @@
 {
     "hidden_settings": [
-      "keyboardLayouts","ntp","storageAccessMode"
+      "keyboardLayouts",
+        "ntp",
+        "storageAccessMode"
     ]
   }
